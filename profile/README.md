@@ -17,7 +17,7 @@ Run the `.exe` file to start the application.
 ## 📸 Overview
 A quick look at key parts in action:
 
-![Main Workspace](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXtBlgpb-E5bZNO-9nf1nY1NhT0VjNGdbDiw&s)  
+![Main Workspace](https://audiomediainternational.com/wp-content/uploads/Pro-Tools-2019.-Reassuringly-familiar.png)  
 ![Mixer Console](https://eshop.macsales.com/blog/wp-content/uploads/2021/08/pro-tools-mix-view-2.png)  
 
 ---
